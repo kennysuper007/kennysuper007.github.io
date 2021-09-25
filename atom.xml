@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>637blog</title>
+  <title>637Blog</title>
   
-  <subtitle>劉尚謙博客</subtitle>
+  <subtitle>IKIGAI・生之意義</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
